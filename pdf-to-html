@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Madhav Ayyagari - Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 {
+      color: #333;
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+    h2 {
+      color: #666;
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+    p {
+      margin-bottom: 10px;
+    }
+    ul {
+      margin-bottom: 20px;
+    }
+    li {
+      margin-bottom: 5px;
+    }
+    .section {
+      margin-bottom: 30px;
+    }
+    .section-title {
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+    .job-title {
+      font-weight: bold;
+    }
+    .company {
+      font-style: italic;
+    }
+    .date {
+      color: #999;
+    }
+    .skills {
+      margin-bottom: 20px;
+    }
+    .skill-category {
+      font-weight: bold;
+      margin-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>MADHAV AYYAGARI</h1>
+  <p>734-353-7441 • madhav_ayyagari@berkeley.edu • linkedin.com/in/madhavayyagari</p>
+  <p>Consumer Product Manager with 5+ years of creating and growing successful tech products for millions of users. Managed more than $70M product revenue and experienced in growth initiatives and leading cross functional teams to deliver results.</p>
+
+  <div class="section">
+    <h2 class="section-title">EDUCATION</h2>
+    <p><strong>University of California, Berkeley, Haas School of Business</strong> - May 2023<br>
+    Master of Business Administration (MBA)</p>
+    <p><strong>University of Florida, Warrington College of Business</strong> - May 2015<br>
+    Master of Science, Information Systems and Operations Management (MS ISOM)</p>
+  </div>
+
+  <div class="section">
+    <h2 class="section-title">EXPERIENCE</h2>
+    <div>
+      <p class="job-title">FlowGPT, Austin, TX</p>
+      <p class="date">August 2023 - November 2023</p>
+      <p><strong>Product Management Intern</strong></p>
+      <ul>
+        <li>Developed a virtual economy system for FlowGPT, an AI startup which resulted in a 25% uplift in engagement through enhanced prompt generation and utilization.</li>
+        <li>Spearheaded the launch of tailored AI bot creation tools aimed at various industries, which successfully attracted a 20% increase in daily active creators, thereby expanding the user base and driving platform growth.</li>
+      </ul>
+    </div>
+    <div>
+      <p class="job-title">InductiveRobotics, Berkeley, CA</p>
+      <p class="date">August 2022 - November 2023</p>
+      <p><strong>Co-Founder and Business Development</strong></p>
+      <ul>
+        <li>Co-Founded Inductive Robotics, an on-demand mobile robotic E.V charging startup. Analyzed the Electric Vehicle Charging infrastructure market in the U.S and identified gaps for the multifamily & airport parking customer segments.</li>
+        <li>Selected to prestigious Berkeley Skydeck incubator program. Conducted 100+ customer segments to identify pain points and developed Smart Energy Management System to reduce installation cost of E.V chargers by 90%.</li>
+      </ul>
+    </div>
+    <!-- Rest of the experience section -->
+  </div>
+
+  <div class="section">
+    <h2 class="section-title">TECHNICAL SKILLS</h2>
+    <div class="skills">
+      <p class="skill-category">Programming:</p>
+      <p>SQL, Python, Selenium, Flask, Jinga, Dynamic HTML, CSS, Bootstrap, JIRA, Miro, Adobe XD, REST</p>
+    </div>
+    <div class="skills">
+      <p class="skill-category">Project Management Tools:</p>
+      <p>ServiceNow, Jira, Agile Craft, Azure DevOps Boards, MS Project, Kanban</p>
+    </div>
+    <!-- Rest of the technical skills section -->
+  </div>
+</body>
+</html>
